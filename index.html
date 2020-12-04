@@ -3,10 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <link rel="stylesheet" href="style/main.css">
+    <script src="script/main.js"></script>
 </head>
 <body>
 
-<img src="img/map.png" height="791" width="1280"/>
+<header>
+    <h1>Map of the USA</h1>
+    <hr>
+</header>
 
+<main>
+    <img id="mapUSA" class="map" src="img/map.png" width="1000px" usemap="#workmap" onclick="defPosition(event)";/>
+
+    <map name="#workmap">
+        <area shape="poly" coords="92, 187, 76, 253, 148, 360, 154,337, 162, 340, 188, 209, 92, 187" href="https://en.wikipedia.org/wiki/Nevada" alt="#">
+        <area shape="poly" coords="171, 320, 256, 334" href="" alt="Utah">
+        <area shape="poly" coords="" href="https:/idinahui.ru/" alt="Arizona">
+    </map>
+
+    <div class="legend">
+        <h1>Legend</h1>
+        <h2>Nevada - first dummy text</h2>
+        <h2>New Mexico - second dummy text</h2>
+        <h2>North Dacota - third dummy text</h2>
+    </div>
+
+</main>
 </body>
 </html>

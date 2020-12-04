@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b510f6b2-675b-41a3-a996-ce27dc61e0b6" name="Default Changelist" comment="" />
+    <list default="true" id="b510f6b2-675b-41a3-a996-ce27dc61e0b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/usa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,10 +17,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Architect &lt;greatraksin@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lCoTmm8Ns75OhgJg78pNFu2K5C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,8 +40,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,18 +58,43 @@
       <option name="presentableId" value="Default" />
       <updated>1607110444280</updated>
       <workItem from="1607110445439" duration="109000" />
-      <workItem from="1607110584286" duration="80000" />
+      <workItem from="1607110584286" duration="2830000" />
+      <workItem from="1607113724939" duration="928000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding file index and map image">
+      <created>1607110848911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607110848911</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding image to index page">
+      <created>1607110956512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607110956512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding file index and map image" />
+    <MESSAGE value="Adding image to index page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding image to index page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="152" key="#Plugins" timestamp="1607110664832">
       <screen x="0" y="25" width="1680" height="964" />
     </state>
     <state x="440" y="152" key="#Plugins/0.25.1680.964@0.25.1680.964" timestamp="1607110664832" />
+    <state x="424" y="79" key="CommitChangelistDialog2" timestamp="1607110956310">
+      <screen x="0" y="25" width="1680" height="964" />
+    </state>
+    <state x="424" y="79" key="CommitChangelistDialog2/0.25.1680.964@0.25.1680.964" timestamp="1607110956310" />
     <state x="349" y="143" key="SettingsEditor" timestamp="1607110561345">
       <screen x="0" y="25" width="1680" height="964" />
     </state>
